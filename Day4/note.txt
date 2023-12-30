@@ -1,0 +1,37 @@
+Operators
+Arithmetic Operators
++ , -, * , / , %
+
+Relational Operators
+==, >, <, >=, <=, !=
+
+Logical Operators
+&& = and, || = or, ! = not
+
+true = 1
+false = 0
+
+&& -> (conditional) && (conditional) && (conditional) -> conditional -> true|false
+    = true && true -> true
+    = true && false -> false
+    = false && true -> false
+    = false && false -> false
+
+|| -> (conditional) || (conditional)
+    = true || true -> true
+    = true || false -> true
+    = false || true -> true
+    = false || false -> false
+
+! -> !=
+true -> !true = false
+        !false = true
+
+
+number%2 == 0
+    true -> even
+    false -> odd
+
+number%2 != 0
+    true ->  odd
+    false -> even

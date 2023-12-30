@@ -1,0 +1,14 @@
+int //integer 10
+float //1.2
+char // '1'
+
+//operators
+Arithmetic operators
++,-,*,/,%(modulus operator)
+
+
+C is procedual or imperative
+
+comments
+single line comments //sfadsf
+multi line comments /*  adfadsf  */

@@ -1,0 +1,24 @@
+C Programming
+Procedual or Imperative language
+
+
+Compiled language, Interpred language
+
+Compiled language
+compiled time
+source file -> native code(machine code)
+
+native code -> respective platform -> direct run
+
+//Clion
+
+
+const 
+-----
+#define //const
+*********************
+Conditional Statement
+if, else if, else, switch case
+
+//Relational Operators
+==, >= , <=, !=

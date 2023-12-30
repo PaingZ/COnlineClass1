@@ -1,0 +1,22 @@
+Basic Input Output
+- printf() //output
+- scanf() //input
+
+Datatype
+- int, float, char
+
+Operators
+Arithmetic Operator
++, -, *, /, %(Modulue operator)
+
+Relational Operator
+==, >=, <=, >, <, !=
+
+Logical operator
+&&, ||, !
+
+Conditional Statement
+if else, switch case break
+
+Looping
+for, while, do while
