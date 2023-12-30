@@ -1,0 +1,15 @@
+//looping 
+for, while, do while
+
+data types
+----------
+int, float, char, array
+
+Logical Operator => &&, ||, !
+boolean => true, false
+              1, 0
+
+//header file => math.h
+
+array
+char array => string
