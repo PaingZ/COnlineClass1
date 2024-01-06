@@ -1,0 +1,28 @@
+Array
+----
+integer array => int arr_name[arr_size]
+float array => float arr_name[arr_size]
+char array => char arr_name[arr_size]
+
+//One dimensional array
+int numbers[5] = {1,2,3,4,5}; %d
+char name[3] = {'a', 'b', 'c'}; %c
+char name[5] = "abc" => %s => %[^\n]
+
+int numbers[5] = {
+    1,
+    2,
+    3,
+    4,
+    5
+}
+
+//Two dimensional arry
+datatype variable_name[X][Y]
+int nubmers[5][5] = {
+    {1,2,3,4,5},
+    {6,7,8,9,10},
+    {6,7,8,9,10},
+    {6,7,8,9,10},
+    {6,7,8,9,10},
+}
